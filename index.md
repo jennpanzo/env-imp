@@ -114,12 +114,12 @@ The results are published on sustainablestitch.co–a website I designed to hous
 ![Sustainable Stitch](images/suzzy-site.png)
 
 
-By presenting the data this way, the model serves two key purposes:
+By presenting the data this way, the project serves two key purposes:
 1. Educate consumers with simplified but accurate sustainability scores.
 1. Encourage brands to adopt better practices by highlighting gaps and showcasing competitors who lead by example.
 
 ## **Conclusion**
 
-The Environmental Impact Assessment Model is more than a rating system, it’s a proof-of-concept that objective, reproducible sustainability metrics can be created with the right data and method. It blends data science, environmental ethics, and public health thinking into a tool that helps both brands and buyers make better choices.
+This rating system is a proof of concept that objective, reproducible sustainability metrics can be developed with the right data and methodology. It blends data science, environmental ethics, and systems thinking into a tool designed to help both brands and consumers make more informed, responsible choices.
 
-If you’re interested in exploring the model, please visit sustainablestitch.co, or reach out to me for a walkthrough.
+If you’re interested in exploring more of this project, please visit sustainablestitch.co, or reach out to me for a walkthrough.
