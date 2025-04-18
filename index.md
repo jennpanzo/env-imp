@@ -73,7 +73,7 @@ Transparency is a key indicator of a clothing brand’s commitment to environmen
 In this assessment, transparency was treated as a proxy for accountability. Brands that provided clear, accessible environmental information, acknowledged areas for improvement, and demonstrated a willingness to engage with sustainability topics received higher scores. In contrast, brands that lacked publicly available data or made vague, unverified sustainability claims received lower evaluations in this category.
 
 
-## Additional Assessment Criteria
+## **Additional Assessment Criteria**
 Beyond fabric and transparency, I analyzed several other critical stages of the apparel lifecycle:
 
 | ASSEMBLY | Brand communications highlight sustainability initiatives and educate consumers about the positive effects of taking action |
