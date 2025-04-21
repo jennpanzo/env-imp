@@ -5,6 +5,9 @@ layout: home
 
 # Environmental Impact Assessment Model
 
+###### _Tools: Python, Microsoft Excel, Figma, Tableau_
+<br/>
+
 ![Sustainable Stitch](images/suzzy-home.png)
 
 ## **Overview**
